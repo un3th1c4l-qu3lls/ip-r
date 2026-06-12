@@ -1,4 +1,4 @@
-# ip
+# Rust IP
 Rust implementation of the Internet Protocol (IPvs).
 
 # notes
