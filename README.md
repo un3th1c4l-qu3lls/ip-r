@@ -1,5 +1,5 @@
 # Rust IP
-Rust implementation of the Internet Protocol (IPvs).
+Rust IP.
 
 # notes
 `v6.rs` incomplete. Will be done.
